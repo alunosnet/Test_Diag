@@ -1,0 +1,14 @@
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.exe.config
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.pdb
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.csprojAssemblyReference.cache
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.csproj.CoreCompileInputs.cache
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.pdb
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.csprojAssemblyReference.cache
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.csproj.CoreCompileInputs.cache
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.exe
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\obj\Debug\PSI_Diagnostico.pdb
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.exe.config
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.exe
+C:\Users\pjcfe\Documents\Aulas\Aulas 2018-2019\PSI\Avaliação Diagnóstica\PSI_Diagnostico\PSI_Diagnostico\bin\Debug\PSI_Diagnostico.pdb

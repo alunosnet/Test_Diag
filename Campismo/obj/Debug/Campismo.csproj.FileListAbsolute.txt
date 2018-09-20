@@ -1,0 +1,6 @@
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\bin\Debug\Campismo.exe.config
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\bin\Debug\Campismo.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\bin\Debug\Campismo.pdb
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\obj\Debug\Campismo.csproj.CoreCompileInputs.cache
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\obj\Debug\Campismo.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\Campismo\obj\Debug\Campismo.pdb

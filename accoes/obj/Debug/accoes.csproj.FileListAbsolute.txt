@@ -1,0 +1,6 @@
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\bin\Debug\accoes.exe.config
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\bin\Debug\accoes.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\bin\Debug\accoes.pdb
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\obj\Debug\accoes.csproj.CoreCompileInputs.cache
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\obj\Debug\accoes.exe
+C:\Users\pjcfe\Source\Repos\PSI_Diagnostico\accoes\obj\Debug\accoes.pdb
